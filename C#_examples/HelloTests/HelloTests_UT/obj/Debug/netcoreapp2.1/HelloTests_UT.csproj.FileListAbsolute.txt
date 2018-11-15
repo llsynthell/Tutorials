@@ -1,0 +1,17 @@
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.csprojAssemblyReference.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.csproj.CoreCompileInputs.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.AssemblyInfoInputs.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.AssemblyInfo.cs
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests_UT.deps.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests_UT.runtimeconfig.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests_UT.runtimeconfig.dev.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests_UT.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests_UT.pdb
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/bin/Debug/netcoreapp2.1/HelloTests.pdb
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.csproj.CopyComplete
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests_UT/obj/Debug/netcoreapp2.1/HelloTests_UT.pdb

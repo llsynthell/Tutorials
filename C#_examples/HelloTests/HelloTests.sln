@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTests", "HelloTests\HelloTests.csproj", "{ECEDA44E-9829-43B2-8955-5C75C075170F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTests_UT", "HelloTests_UT\HelloTests_UT.csproj", "{EF843D8F-3099-4B78-B2F6-B48092257336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEDA44E-9829-43B2-8955-5C75C075170F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEDA44E-9829-43B2-8955-5C75C075170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEDA44E-9829-43B2-8955-5C75C075170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEDA44E-9829-43B2-8955-5C75C075170F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF843D8F-3099-4B78-B2F6-B48092257336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF843D8F-3099-4B78-B2F6-B48092257336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF843D8F-3099-4B78-B2F6-B48092257336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF843D8F-3099-4B78-B2F6-B48092257336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

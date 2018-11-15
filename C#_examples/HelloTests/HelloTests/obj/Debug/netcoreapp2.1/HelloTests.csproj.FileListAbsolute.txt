@@ -1,0 +1,11 @@
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/bin/Debug/netcoreapp2.1/HelloTests.deps.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/bin/Debug/netcoreapp2.1/HelloTests.runtimeconfig.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/bin/Debug/netcoreapp2.1/HelloTests.runtimeconfig.dev.json
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/bin/Debug/netcoreapp2.1/HelloTests.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/bin/Debug/netcoreapp2.1/HelloTests.pdb
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.csprojAssemblyReference.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.csproj.CoreCompileInputs.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.AssemblyInfoInputs.cache
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.AssemblyInfo.cs
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.dll
+/Users/synthewave/Documents/Visual_Studio/HelloTests/HelloTests/obj/Debug/netcoreapp2.1/HelloTests.pdb
